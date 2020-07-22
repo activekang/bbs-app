@@ -1,7 +1,7 @@
 <template>
   <div>
       <div class="footer-info">
-        copyrght 2020 vue-board.com all right reserved. 
+        copyrght &copy; 2020 vue-board.com all right reserved. 
       </div> 
   </div>
 </template>
